@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## 0.0.1 - 2018-05-06
+## 1.0.0 - 2018-05-06
 ### Added
 * Webpack configuration including hot reloading and separate production and development build
 * ESLint automatic code style restriction
